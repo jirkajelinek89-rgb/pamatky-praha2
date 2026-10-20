@@ -1,0 +1,697 @@
+{
+  "1-001": {
+    "indexTitle": "Novoměstská radnice",
+    "addressIndex": "Praha 2, Karlovo náměstí 1/23, 2/22, Vodičkova 1/1, 2/3",
+    "status": "managed"
+  },
+  "1-002": {
+    "indexTitle": "Klášter Benediktinů Na Slovanech",
+    "addressIndex": "Praha 2, Vyšehradská 320/49, Na Slovanech, Pod Slovany 320/22, Trojická",
+    "status": "other"
+  },
+  "1-003": {
+    "indexTitle": "Pevnost Vyšehrad",
+    "addressIndex": "Praha 2",
+    "status": "other"
+  },
+  "1-004": {
+    "indexTitle": "Kostel sv. Cyrila a Metoděje",
+    "addressIndex": "Praha 2, Karlovo náměstí, Na Zderaze, Resslova",
+    "status": "other"
+  },
+  "1-005": {
+    "indexTitle": "Hlávkova studenstská kolej",
+    "addressIndex": "Praha 2, Jenštejnská 1966/1",
+    "status": "other"
+  },
+  "1-006": {
+    "indexTitle": "Budova Československého rozhlasu v Praze",
+    "addressIndex": "Praha 2, Vinohradská 1409/12",
+    "status": "other"
+  },
+  "2-001": {
+    "indexTitle": "Kostel sv. Jana Evangelisty Na Bojišti - archeologické stopy",
+    "addressIndex": "Praha 2, Kateřinská 465/42",
+    "status": "other"
+  },
+  "2-002": {
+    "indexTitle": "Kostel Nejsvětější Trojice",
+    "addressIndex": "Praha 2, Trojická",
+    "status": "other"
+  },
+  "2-003": {
+    "indexTitle": "Kostel sv. Apolináře",
+    "addressIndex": "Praha 2, Apolinářská",
+    "status": "other"
+  },
+  "2-004": {
+    "indexTitle": "Kostel sv. Jana Nepomuckého Na Skalce",
+    "addressIndex": "Praha 2, Vyšehradská, Karlovo náměstí",
+    "status": "other"
+  },
+  "2-005": {
+    "indexTitle": "Bývalý dům emeritních kněží",
+    "addressIndex": "Praha 2, Na Zderaze, Resslova",
+    "status": "other"
+  },
+  "2-006": {
+    "indexTitle": "Kostel sv. Štěpána",
+    "addressIndex": "Praha 2, Štěpánská, Na Rybníčku",
+    "status": "other"
+  },
+  "2-007": {
+    "indexTitle": "Kostel sv. Václava Na Zderaze",
+    "addressIndex": "Praha 2, Resslova, Dittrichova",
+    "status": "other"
+  },
+  "2-008": {
+    "indexTitle": "Rotunda sv. Longina",
+    "addressIndex": "Praha 2, Na Rybníčku",
+    "status": "other"
+  },
+  "2-009": {
+    "indexTitle": "Fara",
+    "addressIndex": "Praha 2, Vyšehradská 430/41",
+    "status": "other"
+  },
+  "2-010": {
+    "indexTitle": "Fara",
+    "addressIndex": "Praha 2, Apolinářská 443/10",
+    "status": "other"
+  },
+  "2-011": {
+    "indexTitle": "Fara",
+    "addressIndex": "Praha 2, Štěpánská 568/10, Žitná 568/22, Na Rybníčku 3",
+    "status": "other"
+  },
+  "2-012": {
+    "indexTitle": "Fara",
+    "addressIndex": "Praha 2, Vyšehradská 1991/28",
+    "status": "other"
+  },
+  "2-013": {
+    "indexTitle": "Kanovnický dům",
+    "addressIndex": "Praha 2, Apolinářská 447/4",
+    "status": "other"
+  },
+  "2-014": {
+    "indexTitle": "Klášter a špitál Alžbětinek",
+    "addressIndex": "Praha 2, Na Slupi, Apolinářská, Albertov",
+    "status": "other"
+  },
+  "2-015": {
+    "indexTitle": "Klášter Augustiniánek s kostelem sv. Kateřiny a areálem psychiatr. kliniky VFN",
+    "addressIndex": "Praha 2, Ke Karlovu, Kateřinská, Viničná",
+    "status": "other"
+  },
+  "2-016": {
+    "indexTitle": "Klášter augustiniánů kanovníků Na Karlově",
+    "addressIndex": "Praha 2, Ke Karlovu, Boženy Němcové, Sokolská, Horská",
+    "status": "other"
+  },
+  "2-017": {
+    "indexTitle": "Klášter servitů",
+    "addressIndex": "Praha 2, Na Slupi, Albertov, Horská",
+    "status": "other"
+  },
+  "2-018": {
+    "indexTitle": "Novoměstská jezuitská škola",
+    "addressIndex": "Praha 2, Karlovo náměstí, Ječná, U Nemocnice",
+    "status": "other"
+  },
+  "2-019": {
+    "indexTitle": "Proboštství křížovníků Božího hrobu (klášter Na Zderaze)",
+    "addressIndex": "Praha 2, Na Zderaze, Na Zbořenci",
+    "status": "other"
+  },
+  "2-020": {
+    "indexTitle": "Park Karlovo náměstí",
+    "addressIndex": "Praha 2, Karlovo náměstí",
+    "status": "managed"
+  },
+  "2-021": {
+    "indexTitle": "Kašna se sochou sv. Josefa",
+    "addressIndex": "Praha 2, Karlovo náměstí",
+    "status": "other"
+  },
+  "2-022": {
+    "indexTitle": "Pomník Aloise Jiráska",
+    "addressIndex": "Praha 2, Jiráskovo náměstí",
+    "status": "other"
+  },
+  "2-023": {
+    "indexTitle": "Pomník Benedikta Röezla",
+    "addressIndex": "Praha 2, Karlovo náměstí",
+    "status": "other"
+  },
+  "2-024": {
+    "indexTitle": "Pomník Elišky Krásnohorské",
+    "addressIndex": "Praha 2, Karlovo náměstí",
+    "status": "other"
+  },
+  "2-025": {
+    "indexTitle": "Pomník Františka Palackého",
+    "addressIndex": "Pomník Františka Palackého",
+    "status": "other"
+  },
+  "2-026": {
+    "indexTitle": "Pomník Jana Evangelisty Purkyně",
+    "addressIndex": "Praha 2, Karlovo náměstí",
+    "status": "other"
+  },
+  "2-027": {
+    "indexTitle": "Pomník Karolíny Světlé",
+    "addressIndex": "Praha 2, Karlovo náměstí",
+    "status": "other"
+  },
+  "2-028": {
+    "indexTitle": "Pomník Vítězslava Hálka",
+    "addressIndex": "Praha 2, Karlovo náměstí",
+    "status": "other"
+  },
+  "2-029": {
+    "indexTitle": "Sloup se sochou sv. Vojtěcha",
+    "addressIndex": "Praha 2, Apolinářská, Viničná",
+    "status": "other"
+  },
+  "2-030": {
+    "indexTitle": "Sloup Panny Marie Karlovské",
+    "addressIndex": "Praha 2, Kostel Panny Marie a sv. Karla Velikého v Praze Na Karlově",
+    "status": "other"
+  },
+  "2-031": {
+    "indexTitle": "Socha sv. Bartoloměje",
+    "addressIndex": "Praha 2, Vyšehradská 424/16",
+    "status": "other"
+  },
+  "2-032": {
+    "indexTitle": "Městské opevnění novoměstské",
+    "addressIndex": "Praha 2, k. ú. Nové Město, podél hranice k. ú. Vinohrady",
+    "status": "other"
+  },
+  "2-033": {
+    "indexTitle": "Silniční most Františka Palackého",
+    "addressIndex": "Praha 2 (z Palackého náměstí), Praha 5",
+    "status": "other"
+  },
+  "2-034": {
+    "indexTitle": "Silniční most Jiráskův",
+    "addressIndex": "Praha 1, 2 (z Jiráskova náměstí), Praha 5",
+    "status": "other"
+  },
+  "2-035": {
+    "indexTitle": "Měšťanský dům U Zítků",
+    "addressIndex": "Praha 2, Vodičkova 12/5",
+    "status": "other"
+  },
+  "2-036": {
+    "indexTitle": "Činžovní dům (Černý pivovar)",
+    "addressIndex": "Praha 2, Karlovo náměstí 292/14, 15",
+    "status": "other"
+  },
+  "2-037": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Rašínovo nábřeží 388/48",
+    "status": "shared"
+  },
+  "2-038": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Rašínovo nábřeží 389/46",
+    "status": "other"
+  },
+  "2-039": {
+    "indexTitle": "Činžovní dům U Prasátků",
+    "addressIndex": "Praha 2, Trojická 397/18",
+    "status": "managed"
+  },
+  "2-040": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Rašínovo nábřeží 407/36",
+    "status": "other"
+  },
+  "2-041": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Rašínovo nábřeží 409/34",
+    "status": "other"
+  },
+  "2-042": {
+    "indexTitle": "Měšťanský dům u sv. Václava",
+    "addressIndex": "Praha 2, Vyšehradská 419/14, Botičská 419/2",
+    "status": "other"
+  },
+  "2-043": {
+    "indexTitle": "Měšťanský dům U Kolíbalů",
+    "addressIndex": "Praha 2, Vyšehradská 420/19",
+    "status": "other"
+  },
+  "2-044": {
+    "indexTitle": "Měšťanský dům",
+    "addressIndex": "Praha 2, Vyšehradská 421/21",
+    "status": "other"
+  },
+  "2-045": {
+    "indexTitle": "Měšťanský dům U Kozolupských",
+    "addressIndex": "Praha 2, Vyšehradská 426/33",
+    "status": "other"
+  },
+  "2-046": {
+    "indexTitle": "Měšťanský dům U Charvátů",
+    "addressIndex": "Praha 2, Apolinářská 439/9",
+    "status": "other"
+  },
+  "2-047": {
+    "indexTitle": "Měšťanský dům",
+    "addressIndex": "Praha 2, Apolinářská 444/8",
+    "status": "other"
+  },
+  "2-048": {
+    "indexTitle": "Měšťanský dům U Stříbrného melounu",
+    "addressIndex": "Praha 2, Ke Karlovu 457/7",
+    "status": "other"
+  },
+  "2-049": {
+    "indexTitle": "Palác Voračických z Paběnic",
+    "addressIndex": "Praha 2, Ke Karlovu 460/11, Apolinářská 460/13",
+    "status": "other"
+  },
+  "2-050": {
+    "indexTitle": "Měšťanský dům U Českého bratra",
+    "addressIndex": "Praha 2, Lípová 477/9",
+    "status": "other"
+  },
+  "2-051": {
+    "indexTitle": "Měšťanský dům",
+    "addressIndex": "Praha 2, Kateřinská 485/20",
+    "status": "managed"
+  },
+  "2-052": {
+    "indexTitle": "Měšťanský dům Štefánikův",
+    "addressIndex": "Praha 2, Sokolská 486/33, Ječná 486/42",
+    "status": "other"
+  },
+  "2-053": {
+    "indexTitle": "Měšťanský dům",
+    "addressIndex": "Praha 2, Kateřinská 489/14",
+    "status": "other"
+  },
+  "2-054": {
+    "indexTitle": "Měšťanský dům",
+    "addressIndex": "Praha 2, Kateřinská 496/2",
+    "status": "parcel"
+  },
+  "2-055": {
+    "indexTitle": "Palác Faustův",
+    "addressIndex": "Praha 2, Karlovo náměstí 502/40",
+    "status": "other"
+  },
+  "2-056": {
+    "indexTitle": "Měšťanský dům U Zlatého kříže",
+    "addressIndex": "Praha 2, Ječná 516/28, Ke Karlovu 516/21",
+    "status": "managed"
+  },
+  "2-057": {
+    "indexTitle": "Měšťanský dům U Šumavského dubu",
+    "addressIndex": "Praha 2, Štěpánská 539/9",
+    "status": "other"
+  },
+  "2-058": {
+    "indexTitle": "Měšťanský dům",
+    "addressIndex": "Praha 2, Malá Štěpánská 540/19, Štěpánská 540/7",
+    "status": "other"
+  },
+  "2-059": {
+    "indexTitle": "Měšťanský dům U Sliveneckých",
+    "addressIndex": "Praha 2, Ječná 545/19, Malá Štěpánská 545/12",
+    "status": "other"
+  },
+  "2-060": {
+    "indexTitle": "Měšťanský dům U Kamenného stolu",
+    "addressIndex": "Praha 2, Karlovo náměstí 550/35",
+    "status": "other"
+  },
+  "2-061": {
+    "indexTitle": "Měšťanský dům U Bílého beránka a Bílého jelínka",
+    "addressIndex": "Praha 2, Karlovo náměstí 555/31",
+    "status": "other"
+  },
+  "2-062": {
+    "indexTitle": "Měšťanský dům",
+    "addressIndex": "Praha 2, Žitná 562/10",
+    "status": "other"
+  },
+  "2-063": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Žitná 564/14",
+    "status": "other"
+  },
+  "2-064": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Myslíkova 257/6",
+    "status": "other"
+  },
+  "2-065": {
+    "indexTitle": "Měšťanský dům",
+    "addressIndex": "Praha 2, Myslíkova 1275/12",
+    "status": "other"
+  },
+  "2-066": {
+    "indexTitle": "Činžovní dům s lékárnou U Spasitele",
+    "addressIndex": "Praha 2, Vyšehradská 1411/24",
+    "status": "other"
+  },
+  "2-067": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Náplavní 1618/6",
+    "status": "other"
+  },
+  "2-068": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Legerova 1830/44",
+    "status": "other"
+  },
+  "2-069": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Náplavní 2013/1",
+    "status": "other"
+  },
+  "2-070": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Masarykovo nábřeží 2014/2",
+    "status": "shared"
+  },
+  "2-071": {
+    "indexTitle": "Soubor nájemních domů Václava Havla",
+    "addressIndex": "Praha 2, Rašínovo nábřeží 1980/70, 2000/78",
+    "status": "other"
+  },
+  "2-072": {
+    "indexTitle": "České Vysoké Učení Technické",
+    "addressIndex": "Praha 2, Karlovo náměstí 293/13, Resslova 293/11",
+    "status": "other"
+  },
+  "2-073": {
+    "indexTitle": "Hlávkův ústav",
+    "addressIndex": "Praha 2, Albertov 2039/29, Studničkova 2039/2",
+    "status": "other"
+  },
+  "2-074": {
+    "indexTitle": "Vodní mlýn",
+    "addressIndex": "Praha 2, Na Výtoni 254/2",
+    "status": "managed"
+  },
+  "2-075": {
+    "indexTitle": "Ministerstvo práce a sociálních věcí",
+    "addressIndex": "Praha 2, Palackého náměstí, Pod Slovany, Na Poříčním právu, Na Moráni, Podskalská, náměstí Pod Emauzy",
+    "status": "other"
+  },
+  "2-076": {
+    "indexTitle": "Všeobecný penzijní ústav",
+    "addressIndex": "Praha 2, Rašínovo nábřeží 390/42, Plavecká 390/1",
+    "status": "other"
+  },
+  "2-077": {
+    "indexTitle": "Bývalá Podskalská celnice",
+    "addressIndex": "Praha 2, Rašínovo nábřeží 412/30, Podskalská 412/1",
+    "status": "other"
+  },
+  "2-078": {
+    "indexTitle": "Bývalý městský špitál a chudobinec U sv. Bartoloměje",
+    "addressIndex": "Praha 2, Vyšehradská 427/18",
+    "status": "other"
+  },
+  "2-079": {
+    "indexTitle": "Zemská porodnice",
+    "addressIndex": "Praha 2, Apolinářská 441/18, Ke Karlovu 441/9",
+    "status": "other"
+  },
+  "2-080": {
+    "indexTitle": "Kupecká nemocnice",
+    "addressIndex": "Praha 2, Ke Karlovu 458/4, Wenzigova 458/1, Sokolská",
+    "status": "other"
+  },
+  "2-081": {
+    "indexTitle": "Michnův letohrádek",
+    "addressIndex": "Praha 2, Ke Karlovu 462/20",
+    "status": "other"
+  },
+  "2-082": {
+    "indexTitle": "Všeobecná nemocnice",
+    "addressIndex": "Praha 2, U Nemocnice 499/2, Pod Větrovem 499/3",
+    "status": "other"
+  },
+  "2-083": {
+    "indexTitle": "Bývalá škola u sv. Štěpána",
+    "addressIndex": "Praha 2, Na Rybníčku 535/2, Štěpánská 535/6",
+    "status": "other"
+  },
+  "2-084": {
+    "indexTitle": "Škola (bývalý špitál při kostele sv. Štěpána)",
+    "addressIndex": "Praha 2, Na Rybníčku 536/6",
+    "status": "other"
+  },
+  "2-085": {
+    "indexTitle": "Palác YMCA - spolkový dům",
+    "addressIndex": "Praha 2, Žitná 563/12",
+    "status": "other"
+  },
+  "2-086": {
+    "indexTitle": "Sokolovna - tělocvična",
+    "addressIndex": "Praha 2, Sokolská 1437/43",
+    "status": "other"
+  },
+  "2-087": {
+    "indexTitle": "Sanatorium (Ondřeje Schneidera)",
+    "addressIndex": "Praha 2, Na Bojišti 1771/1, Ke Karlovu 1771/18",
+    "status": "other"
+  },
+  "2-088": {
+    "indexTitle": "Restaurace Vltava",
+    "addressIndex": "Praha 2, Rašínovo nábřeží",
+    "status": "other"
+  },
+  "2-089": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Na Výtoni 2034/6, Na Hrobci 2034/7",
+    "status": "other"
+  },
+  "2-090": {
+    "indexTitle": "Palác Voračických",
+    "addressIndex": "Praha 2, Ke Karlovu 460/11",
+    "status": "other"
+  },
+  "2-091": {
+    "indexTitle": "Pomník Stanislava Vydry",
+    "addressIndex": "Praha 2, Ke Karlovu 2027/3 (uvnitř objektu)",
+    "status": "other"
+  },
+  "2-092": {
+    "indexTitle": "Frühweinovský dům",
+    "addressIndex": "Praha 2, Na Slupi 452/2a",
+    "status": "other"
+  },
+  "2-093": {
+    "indexTitle": "Ministerstvo práce a sociálních věcí",
+    "addressIndex": "Praha 2, Podskalská 1290/15",
+    "status": "other"
+  },
+  "3-001": {
+    "indexTitle": "Bazilika sv. Ludmily",
+    "addressIndex": "Praha 2, náměstí Míru",
+    "status": "other"
+  },
+  "3-002": {
+    "indexTitle": "Kaple sv. Rodiny",
+    "addressIndex": "Praha 2, Pod Nuselskými schody",
+    "status": "shared"
+  },
+  "3-003": {
+    "indexTitle": "Park - Sady na náměstí Míru",
+    "addressIndex": "Praha 2, náměstí Míru",
+    "status": "managed"
+  },
+  "3-004": {
+    "indexTitle": "Park - Sady Svatopluka Čecha",
+    "addressIndex": "Praha 2, Sady Svatopluka Čecha",
+    "status": "managed"
+  },
+  "3-005": {
+    "indexTitle": "Gröbeho vila (Grébovka) - Havlíčkovy sady",
+    "addressIndex": "Praha 2, Havlíčkovy sady",
+    "status": "managed"
+  },
+  "3-006": {
+    "indexTitle": "Riegrovy sady",
+    "addressIndex": "Praha 2, Riegrovy sady, Vozová",
+    "status": "managed"
+  },
+  "3-007": {
+    "indexTitle": "Pomník Svatopluka Čecha",
+    "addressIndex": "Praha 2, Sady Svatopluka Čecha",
+    "status": "other"
+  },
+  "3-008": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Italská 36/25",
+    "status": "shared"
+  },
+  "3-009": {
+    "indexTitle": "Venkovská usedlost předměstská Vondračka",
+    "addressIndex": "Praha 2, Perucká 61/13",
+    "status": "other"
+  },
+  "3-010": {
+    "indexTitle": "Měšťanský dům s altánem",
+    "addressIndex": "Praha 2, U Zvonařky 65/1",
+    "status": "other"
+  },
+  "3-011": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Škrétova 70/10",
+    "status": "other"
+  },
+  "3-012": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Americká 517/7",
+    "status": "parcel"
+  },
+  "3-013": {
+    "indexTitle": "Rodinný dům sochaře Bohuslava Schnircha",
+    "addressIndex": "Praha 2, Mikovcova 548/5",
+    "status": "other"
+  },
+  "3-014": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Vinohradská 1233/22",
+    "status": "other"
+  },
+  "3-015": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Slezská 1333/46",
+    "status": "other"
+  },
+  "3-016": {
+    "indexTitle": "Rodinný dům - Laichterův dům",
+    "addressIndex": "Praha 2, Chopinova 1543/4",
+    "status": "other"
+  },
+  "3-017": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Chopinova 1556/6",
+    "status": "other"
+  },
+  "3-018": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Chopinova 1564/8",
+    "status": "other"
+  },
+  "3-019": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Pod Zvonařkou 1746/7",
+    "status": "other"
+  },
+  "3-020": {
+    "indexTitle": "Obytná stavba",
+    "addressIndex": "Praha 2, Vinohradská 1896/46",
+    "status": "other"
+  },
+  "3-021": {
+    "indexTitle": "Škola",
+    "addressIndex": "Praha 2, Na Smetance 505/1",
+    "status": "managed"
+  },
+  "3-022": {
+    "indexTitle": "Škola střední ekonomická",
+    "addressIndex": "Praha 2, Vinohradská 1971/38, Blanická 1971/19",
+    "status": "other"
+  },
+  "3-023": {
+    "indexTitle": "Administrativní budova",
+    "addressIndex": "Praha 2, Římská 100/46",
+    "status": "other"
+  },
+  "3-024": {
+    "indexTitle": "Železniční stanice Praha hlavní nádraží",
+    "addressIndex": "Praha 2, Wilsonova",
+    "status": "other"
+  },
+  "3-025": {
+    "indexTitle": "Národní dům na Vinohradech - Společenský dům",
+    "addressIndex": "Praha 2, náměstí Míru 820/9, Slezská 820/2, Korunní 820/1, 3",
+    "status": "other"
+  },
+  "3-026": {
+    "indexTitle": "Vinohradská tržnice",
+    "addressIndex": "Praha 2, Vinohradská 1200/50, Budečská 1200/34, Slezská 1200/17, u Tržnice 1200/1",
+    "status": "managed"
+  },
+  "3-027": {
+    "indexTitle": "Divadlo na Vinohradech",
+    "addressIndex": "Praha 2, náměstí Míru 1450/7, Ibsenova 1450/2, Šubertova 1450/1, Římská 1450/38",
+    "status": "other"
+  },
+  "3-028": {
+    "indexTitle": "Palác Tabáková režie",
+    "addressIndex": "Praha 2, Slezská 2000/9, Sázavská 2000/23",
+    "status": "other"
+  },
+  "3-029": {
+    "indexTitle": "Tělocvična - Sokolovna",
+    "addressIndex": "Praha 2, Polská 2400/1",
+    "status": "other"
+  },
+  "4-001": {
+    "indexTitle": "Soubor železničních mostů na trati Praha hl. nádraží - Praha Smíchov",
+    "addressIndex": "Praha 2, Praha 5, Vyšehradská, Svobodova, dále přes Vltavu",
+    "status": "other"
+  },
+  "4-002": {
+    "indexTitle": "Městský dům",
+    "addressIndex": "Praha 2, Vratislavova 33/2",
+    "status": "managed"
+  },
+  "4-003": {
+    "indexTitle": "Vila - kubistické vily pod Vyšehradem",
+    "addressIndex": "Praha 2, Rašínovo nábřeží 42/6",
+    "status": "other"
+  },
+  "4-004": {
+    "indexTitle": "Vila - kubistické vily pod Vyšehradem",
+    "addressIndex": "Praha 2, Rašínovo nábřeží 47/8",
+    "status": "parcel"
+  },
+  "4-005": {
+    "indexTitle": "Vila - kubistické vily pod Vyšehradem",
+    "addressIndex": "Praha 2, Vratislavova 48/2, Libušina 48/5",
+    "status": "other"
+  },
+  "4-006": {
+    "indexTitle": "Vila - kubistické vily pod Vyšehradem",
+    "addressIndex": "Praha 2, Libušina 49/3",
+    "status": "other"
+  },
+  "4-007": {
+    "indexTitle": "Vila - kubistické vily pod Vyšehradem",
+    "addressIndex": "Praha 2, Libušina 50/1, Rašínovo nábřeží 50/26",
+    "status": "other"
+  },
+  "4-008": {
+    "indexTitle": "Vila - kubistické vily pod Vyšehradem",
+    "addressIndex": "Praha 2, Neklanova 56/2",
+    "status": "other"
+  },
+  "4-009": {
+    "indexTitle": "Vila - kubistické vily pod Vyšehradem",
+    "addressIndex": "Praha 2, Rašínovo nábřeží 71/10",
+    "status": "other"
+  },
+  "4-010": {
+    "indexTitle": "Činžovní dům",
+    "addressIndex": "Praha 2, Neklanova 98/30, Přemyslova 98/1",
+    "status": "other"
+  },
+  "4-011": {
+    "indexTitle": "Železniční stanice Vyšehrad",
+    "addressIndex": "Praha 2, Svobodova",
+    "status": "other"
+  }
+}
